@@ -44,7 +44,7 @@
 }
 .home-container3 {
   top: 201px;
-  left: 835px;
+  left: 833px;
   width: 314px;
   height: 418px;
   display: flex;
@@ -153,8 +153,8 @@
   padding-right: var(--dl-space-space-unit);
   animation-name: pulse;
   padding-bottom: var(--dl-space-space-twounits);
-  animation-delay: 0s;
   background-color: #ada8a8;
+  animation-delay: 0s;
   animation-duration: 300ms;
   animation-direction: normal;
   animation-iteration-count: 1;
