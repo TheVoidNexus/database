@@ -60,6 +60,7 @@ function DataOutput() {
 
   } else {
     alert("The Index cannot be empty.");
+  }
   } else {
     alert("This Index does not exist.");
   }
