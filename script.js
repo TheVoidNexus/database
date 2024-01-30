@@ -54,7 +54,7 @@ function DataOutput() {
     popupContent.innerHTML = `Index: `;
     popupContent2.innerHTML = `${key}<br><br>`; 
     popupContent3.innerHTML = `Value: `; 
-    popupContent4.innerHTML = `${Value}`;
+    popupContent4.innerHTML = `${Value}<br>`;
     document.getElementById('InformationPopup').style.display = 'flex';
     
   } else {
