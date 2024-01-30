@@ -118,16 +118,17 @@
    color: red;
 }
 .popupContent2 {
-   font-size: 150%;
+   font-size: 175%;
    color: black;
 }
 .popupContent3 {
    font-size: 200%;
    color: red;
-.closeButton {
-  padding: 10px;
 }
 .popupContent4 {
-   font-size: 150%;
+   font-size: 175%;
    color: black;
+}
+.closeButton {
+  padding: 10px;
 }
