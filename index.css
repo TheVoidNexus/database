@@ -1,0 +1,162 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #424244;
+}
+.home-container1 {
+  width: 100%;
+  height: 140px;
+  display: flex;
+  padding: 0px;
+  align-items: center;
+  justify-content: center;
+  background-color: #060606;
+}
+.home-text {
+  color: #f7f7f7;
+  width: auto;
+  height: auto;
+  font-size: 80px;
+  font-style: oblique;
+  text-align: center;
+  font-family: "Impact";
+  font-weight: 400;
+  border-color: rgba(0, 0, 0, 0);
+  background-color: transparent;
+}
+.home-container2 {
+  top: 189px;
+  left: 158px;
+  width: 314px;
+  height: 418px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: #ffffff;
+  border-style: groove;
+  border-width: 2px;
+  flex-direction: column;
+}
+.home-container3 {
+  top: 189px;
+  left: 737px;
+  width: 314px;
+  height: 418px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: #ffffff;
+  border-style: groove;
+  border-width: 2px;
+  flex-direction: column;
+}
+.home-container4 {
+  top: 189px;
+  left: 470px;
+  width: 267px;
+  height: 418px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: #ffffff;
+  border-style: groove;
+  border-width: 2px;
+  flex-direction: column;
+}
+.home-button {
+  top: 360px;
+  left: 524px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-twounits);
+  border-color: #b1abab;
+  border-style: groove;
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  animation-name: pulse;
+  padding-bottom: var(--dl-space-space-twounits);
+  animation-delay: 0s;
+  background-color: #ada8a8;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.home-button1 {
+  top: 360px;
+  left: 809px;
+  padding: var(--dl-space-space-twounits);
+  position: absolute;
+  align-self: center;
+  border-color: #b1abab;
+  border-style: groove;
+  animation-name: pulse;
+  animation-delay: 0s;
+  background-color: #ada8a8;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.home-button2 {
+  top: 225px;
+  left: 239px;
+  padding: var(--dl-space-space-twounits);
+  position: absolute;
+  align-self: center;
+  border-color: #b1abab;
+  border-style: groove;
+  animation-name: pulse;
+  padding-bottom: 32px;
+  animation-delay: 0s;
+  background-color: #ada8a8;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.home-button3 {
+  top: 487px;
+  left: 239px;
+  width: 158px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-twounits);
+  border-color: #b1abab;
+  border-style: groove;
+  padding-left: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-unit);
+  animation-name: pulse;
+  padding-bottom: var(--dl-space-space-twounits);
+  animation-delay: 0s;
+  background-color: #ada8a8;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.home-button4 {
+  top: 360px;
+  left: 239px;
+  width: 157px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-twounits);
+  border-color: #b1abab;
+  border-style: groove;
+  padding-left: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-unit);
+  animation-name: pulse;
+  padding-bottom: var(--dl-space-space-twounits);
+  animation-delay: 0s;
+  background-color: #ada8a8;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
