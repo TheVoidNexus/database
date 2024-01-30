@@ -44,7 +44,7 @@
 }
 .home-container3 {
   top: 201px;
-  right: 48px;
+  left: 835px;
   width: 314px;
   height: 418px;
   display: flex;
@@ -69,8 +69,8 @@
   flex-direction: column;
 }
 .home-button {
-  top: 360px;
-  left: 524px;
+  top: 372px;
+  left: 625px;
   position: absolute;
   align-self: center;
   padding-top: var(--dl-space-space-twounits);
@@ -88,8 +88,8 @@
   animation-timing-function: ease;
 }
 .home-button1 {
-  top: 360px;
-  left: 809px;
+  top: 372px;
+  left: 915px;
   padding: var(--dl-space-space-twounits);
   position: absolute;
   align-self: center;
@@ -104,8 +104,8 @@
   animation-timing-function: ease;
 }
 .home-button2 {
-  top: 225px;
-  left: 239px;
+  top: 237px;
+  left: 340px;
   padding: var(--dl-space-space-twounits);
   position: absolute;
   align-self: center;
@@ -121,8 +121,8 @@
   animation-timing-function: ease;
 }
 .home-button3 {
-  top: 487px;
-  left: 239px;
+  top: 372px;
+  left: 340px;
   width: 158px;
   position: absolute;
   align-self: center;
@@ -141,8 +141,8 @@
   animation-timing-function: ease;
 }
 .home-button4 {
-  top: 360px;
-  left: 239px;
+  top: 499px;
+  left: 340px;
   width: 157px;
   position: absolute;
   align-self: center;
