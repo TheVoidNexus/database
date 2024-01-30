@@ -111,8 +111,7 @@
       border-radius: 10px;
       text-align: center;
  }
-    .close-btn {
-      cursor: pointer;
+   
 }
 .popupContent {
    font-size: 200%;
@@ -125,6 +124,8 @@
 .popupContent3 {
    font-size: 200%;
    color: red;
+.closeButton {
+  padding: 10px;
 }
 .popupContent4 {
    font-size: 150%;
