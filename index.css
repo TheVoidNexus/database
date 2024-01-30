@@ -30,8 +30,8 @@
   background-color: transparent;
 }
 .home-container2 {
-  top: 189px;
-  left: 158px;
+  top: 201px;
+  left: 259px;
   width: 314px;
   height: 418px;
   display: flex;
@@ -43,8 +43,8 @@
   flex-direction: column;
 }
 .home-container3 {
-  top: 189px;
-  left: 737px;
+  top: 201px;
+  right: 48px;
   width: 314px;
   height: 418px;
   display: flex;
@@ -56,8 +56,8 @@
   flex-direction: column;
 }
 .home-container4 {
-  top: 189px;
-  left: 470px;
+  top: 201px;
+  left: 571px;
   width: 267px;
   height: 418px;
   display: flex;
