@@ -46,7 +46,8 @@ function DataInput() {
 function DataOutput() {
   let key = prompt("Enter the Index.", "");
   let Value = localStorage.getItem(key);
-  if (Value !== undefined) {
+  if (Value !== null) {
+  if (Value !== "") {
   let popupContent = document.getElementById('popupContent');
   let popupContent2 = document.getElementById('popupContent2');
   let popupContent3 = document.getElementById('popupContent3');
@@ -56,7 +57,9 @@ function DataOutput() {
     popupContent3.innerHTML = `Value: `; 
     popupContent4.innerHTML = `${Value}<br>`;
     document.getElementById('InformationPopup').style.display = 'flex';
-    
+
+  } else {
+    alert("The Index cannot be empty.");
   } else {
     alert("This Index does not exist.");
   }
